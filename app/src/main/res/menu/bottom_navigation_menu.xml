@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_charts"
+        android:title="Charts" />
+    <item
+        android:id="@+id/action_status"
+        android:title="Status" />
+    <item android:id="@+id/action_addfriends"
+        android:title="Add Friends"/>
+</menu>
